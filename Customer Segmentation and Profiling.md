@@ -1,22 +1,30 @@
 # CUSTOMER SEGMENTATION AND PROFILING
+<p align="center">
+<img src="" alt="Image" width="450" height="450">
 
-Database
---
-The AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer (Adventure Works Cycles). Scenarios include Purchasing, Product Management, Sales, and Human Resources.
+## Table Of Contents
+  
+  - [Database](#database)
+  - [Business Context](#business-context)
+  - [Problem Statement](#problem-statement)
+  - [Visualization using Power BI](#visualization-using-power-bi)
+
+## Database
+The AdventureWorks da![image](https://github.com/Hoaithomint/Power-BI/assets/141213880/3d67e290-1683-4d80-b138-370831b84328)
+tabase supports standard online transaction processing scenarios for a fictitious bicycle manufacturer (Adventure Works Cycles). Scenarios include Purchasing, Product Management, Sales, and Human Resources.
 
 - You could explore data [here](https://console.cloud.google.com/bigquery?authuser=0&project=adventureworks2019&ws=!1m0&pli=1)
 
 - Data Dictionary [here](https://drive.google.com/file/d/15kCAbYbG0pchpVHmkV_2CeLfAFe1D9_5/view?usp=sharing)
 
-Business Context
---
+## Business Context
 
 Adventure Works Cycles, a large, multinational manufacturing company,  produces and distributes metal and composite bicycles to North American, European,  and Asian commercial markets. While its base operation is located in Bothell,   Washington, and employs 500 people, several regional sales teams are located throughout the company’s market region. In 2000, Adventure Works Cycles bought a   small manufacturing plant, Wide World Importers, which is located in Mexico City,  Mexico. Wide World Importers manufactures several critical subcomponents for the  Adventure Works Cycles product line. These subcomponents are shipped to the Bothell  location for final product assembly. In 2001, Wide World Importers became the sole  manufacturer and distributor of the touring bicycle product group. 
 
 After a successful fiscal year, Adventure Works Cycles is looking to broaden its  market share by focusing its sales efforts on the company’s best customers, and reducing the cost  of sales by reducing production costs.
 
-Case Study Question
--
+## Problem Statement
+
 Sales representatives from regional sales offices have assigned sales territories in the United States, Canada, England, Australia, Germany, and France. Each regional office consists of several sales representatives and a team manager. In their daily sales activities, sales representatives use both laptops and Handheld PCs that run Microsoft® Windows CE. A typical work day for a sales representative starts with the representative dialing in to the regional office and downloading current data such as inventory, product, and promotional information. During customer visits, the sales representative takes orders on the laptop or Handheld PC. At the end of each day, the sales representative sets up appointments for the following day or week, checks the appointments of other representatives in the area for possible collaboration, and updates the contact list. The sales representative dials back into the regional office, sends updated information, and receives any new internal communications from the base office or regional office. The company currently uses Microsoft Outlook® for email. 
 
 The sales teams have identified the following requirements that will enable them to perform their jobs better: 
@@ -28,8 +36,8 @@ The sales team needs to be able to extract valuable information from raw data av
 - What are customers’s issues, categorized according to demographic groups (geographic location, revenue history, and so on)? 
 - What products are the customers buying and at what rate?
 
-Visualization using Power BI
--
+## Visualization using Power BI
+
 ### Insights:
 Chính sách về giá chính là nhân tố chính lý do khách mua sản phẩm bike của Adventureworks
 
