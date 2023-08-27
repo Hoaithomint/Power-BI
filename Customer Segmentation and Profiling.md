@@ -1,6 +1,6 @@
 # CUSTOMER SEGMENTATION AND PROFILING
 <p align="center">
-<img src="" alt="Image" width="450" height="450">
+<img src="https://github.com/Hoaithomint/Power-BI/assets/141213880/713cd937-3ba5-401d-b318-d8f4ea2a5758" alt="Image">
 
 ## Table Of Contents
   
@@ -10,8 +10,7 @@
   - [Visualization using Power BI](#visualization-using-power-bi)
 
 ## Database
-The AdventureWorks da![image](https://github.com/Hoaithomint/Power-BI/assets/141213880/3d67e290-1683-4d80-b138-370831b84328)
-tabase supports standard online transaction processing scenarios for a fictitious bicycle manufacturer (Adventure Works Cycles). Scenarios include Purchasing, Product Management, Sales, and Human Resources.
+The AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer (Adventure Works Cycles). Scenarios include Purchasing, Product Management, Sales, and Human Resources.
 
 - You could explore data [here](https://console.cloud.google.com/bigquery?authuser=0&project=adventureworks2019&ws=!1m0&pli=1)
 
