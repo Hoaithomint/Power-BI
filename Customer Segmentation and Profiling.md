@@ -36,7 +36,7 @@ The sales team needs to be able to extract valuable information from raw data av
 - What products are the customers buying and at what rate?
 
 ## Visualization using Power BI
-
+![AdventureWorkCycleImage](https://github.com/Hoaithomint/Power-BI/assets/141213880/f1e0a0c9-db25-453b-bca5-c4e708e7c89a)
 ### Insights:
 Chính sách về giá chính là nhân tố chính lý do khách mua sản phẩm bike của Adventureworks
 
