@@ -7,7 +7,7 @@
   - [Database](#database)
   - [Business Context](#business-context)
   - [Problem Statement](#problem-statement)
-  - [Visualization using Power BI](#visualization-using-power-bi)
+  - [Visualization using Power BI: Insights & Recommendations](#visualization-using-power-bi)
 
 ## Database
 The AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer (Adventure Works Cycles). Scenarios include Purchasing, Product Management, Sales, and Human Resources.
